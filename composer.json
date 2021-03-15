@@ -1,0 +1,13 @@
+{
+    "name": "lulco/deprecated-constant",
+    "description": "Minimum app to show failing test case for using deprecated constant IRouter::SECURE",
+    "require": {
+        "nette/application": "^2.4",
+        "nette/bootstrap": "^2.4",
+        "nette/robot-loader": "^3.0"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^0.12.81",
+        "phpstan/phpstan-deprecation-rules": "^0.12.6"
+    }
+}
